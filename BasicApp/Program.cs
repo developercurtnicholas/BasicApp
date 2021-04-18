@@ -6,7 +6,7 @@ namespace BasicApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World! Let's Auto Build");
         }
     }
 }
